@@ -1,0 +1,57 @@
+[00:00:38] [Server thread/INFO]: JazXD issued server command: /save-all
+[00:00:38] [Server thread/INFO]: [JazXD: Saved the game]
+[00:22:00] [User Authenticator #5/INFO]: UUID of player zen0x00 is d61e5f79-4552-359f-a89c-eedced2e8786
+[00:22:00] [Server thread/INFO]: zen0x00 joined the game
+[00:22:00] [Server thread/INFO]: zen0x00[/127.0.0.1:56323] logged in with entity id 28430 at ([world]178.30000001192093, 69.0, 113.17729810727504)
+[00:30:08] [Server thread/INFO]: zen0x00 fell from a high place
+[00:31:07] [Server thread/INFO]: JazXD issued server command: /save-all
+[00:31:07] [Server thread/INFO]: [JazXD: Saved the game]
+[00:31:16] [Server thread/INFO]: JazXD lost connection: Disconnected
+[00:31:16] [Server thread/INFO]: JazXD left the game
+[00:31:19] [Server thread/INFO]: zen0x00 lost connection: Disconnected
+[00:31:19] [Server thread/INFO]: zen0x00 left the game
+[00:31:21] [User Authenticator #6/INFO]: UUID of player JazXD is ad6e0103-676f-3506-855c-55aa6654717c
+[00:31:21] [Server thread/INFO]: JazXD joined the game
+[00:31:21] [Server thread/INFO]: JazXD[/103.176.167.202:1535] logged in with entity id 30264 at ([world]247.94348832794455, 72.0, 177.8519418048928)
+[00:31:27] [Server thread/INFO]: Stopping the server
+[00:31:27] [Server thread/INFO]: Stopping server
+[00:31:27] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[00:31:27] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.10.0
+[00:31:27] [Server thread/INFO]: [squaremap] Disabling squaremap v1.3.12
+[00:31:27] [Server thread/INFO]: [io.undertow] stopping server: Undertow - 2.3.20.Final
+[00:31:27] [Server thread/INFO]: [squaremap] Internal webserver stopped
+[00:31:27] [Server thread/INFO]: Saving players
+[00:31:27] [Server thread/INFO]: AStone1872 lost connection: Server closed
+[00:31:27] [Server thread/INFO]: AStone1872 left the game
+[00:31:27] [Server thread/INFO]: JazXD lost connection: Server closed
+[00:31:27] [Server thread/INFO]: JazXD left the game
+[00:31:27] [Server thread/INFO]: Saving worlds
+[00:31:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Saved 13 block chunks, 379 entity chunks, 0 poi chunks in world 'world' in 0.05s
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[00:31:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[00:31:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[00:31:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[00:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:31:27] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[00:31:27] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[00:31:27] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[00:31:27] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
